@@ -1,0 +1,33 @@
+Шрифты:
+
+font-family: 'Lobster', cursive;
+font-family: 'PT Sans', sans-serif;
+
+Логотип:
+Lobster 1.4 Regular
+
+Навигация:
+PT Sans Regular
+
+Заголовок
+PT Sans  Bold
+
+
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  
+  font-family: "PT Sans";
+  
+  position: absolute;
+  left: 615px;
+  top: 295px;
+  width: 767px;
+  height: 114px;
+  z-index: 14;
+}
+
+
+
+
+
+
+

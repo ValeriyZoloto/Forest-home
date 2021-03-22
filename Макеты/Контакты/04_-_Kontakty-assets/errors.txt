@@ -1,0 +1,2 @@
+[2021-3-20 15:42:04] layer "+7 (905) 555-55-55 info@foresttravel.com г. Москва, Рязанский  ": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2021-3-20 15:42:04] layer "+7 (905) 555-55-55 info@foresttravel.com г. Москва, Рязанский п": Expected Either a default asset specification or a layer asset specification but "+" found.
